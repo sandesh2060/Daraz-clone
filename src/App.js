@@ -1,9 +1,9 @@
 import "./App.css";
-import nav from "component/nav";
+import Nav from "./component/nav"; // Capitalized 'N' is typical for component names
 function App() {
   return (
     <>
-      <nav />
+      <Nav />
     </>
   );
 }
