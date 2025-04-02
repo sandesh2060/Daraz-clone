@@ -1,5 +1,5 @@
 import "./App.css";
-import Nav from "./component/nav"; // Capitalized 'N' is typical for component names
+import Nav from "./components/nav"; // Capitalized 'N' is typical for component names
 function App() {
   return (
     <>
